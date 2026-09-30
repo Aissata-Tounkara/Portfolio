@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-label="Portrait placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffe7ef"/>
+      <stop offset="48%" stop-color="#f6b7ca"/>
+      <stop offset="100%" stop-color="#7b2f58"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#7b2f58"/>
+      <stop offset="100%" stop-color="#f07aa3"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="715" cy="210" r="86" fill="#fff6f9" opacity=".42"/>
+  <circle cx="155" cy="835" r="118" fill="#f9d66b" opacity=".32"/>
+  <path d="M210 1040c34-242 148-363 342-363 167 0 277 121 330 363H210Z" fill="url(#dress)"/>
+  <circle cx="452" cy="392" r="170" fill="#52223c"/>
+  <circle cx="452" cy="420" r="128" fill="#ffd0bd"/>
+  <path d="M303 408c26-135 103-203 231-203 90 36 142 102 156 199-74-14-142-50-204-108-46 58-107 95-183 112Z" fill="#52223c"/>
+  <path d="M376 494c48 42 100 42 154 0" fill="none" stroke="#a84667" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="405" cy="421" r="12" fill="#52223c"/>
+  <circle cx="500" cy="421" r="12" fill="#52223c"/>
+  <path d="M327 674c88 73 175 73 262 0v148H327V674Z" fill="#ffd0bd"/>
+  <text x="450" y="970" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#fff6f9">Ta photo ici</text>
+</svg>
